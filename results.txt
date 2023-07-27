@@ -1,0 +1,8 @@
+<< 32-3 >>
+
+name: Rustam score: 0
+name: Amantai score: 6
+name: Jasmina score: 5
+name: Dastan score: 0
+name: Iskender score: 9
+name: Tatiana score: 7
